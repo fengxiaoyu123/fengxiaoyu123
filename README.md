@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# 自我介绍
+ 我叫冯晓瑜,就读于淄博职业学院,预计2022年毕业.
 <!--
 **fengxiaoyu123/fengxiaoyu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
